@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jojoexperte7289
 - 👀 I’m interested in it-security and coding
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning Python, html and css
 - 💞️ I’m looking to collaborate on a python discord.py bot.
 - 📫 How to reach me ...
 
