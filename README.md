@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jojoexperte7289
-- 👀 I’m interested in it-security and coding
-- 🌱 I’m currently learning Javascript (node.js)
+- 👀 I’m interested in networking and coding
+- 🌱 I’m currently developing a discord bot in python
 
 <!---
 jojoexperte7289/jojoexperte7289 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
