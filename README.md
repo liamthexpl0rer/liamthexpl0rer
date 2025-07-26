@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @liamthexpl0rer
 - 👀 I’m interested in networking and coding
-- 🌱 I’m currently developing a discord bot in python
+- 🌱 I’m currently developing a Discord x Revolt bot in Typescript on my [Codeberg Repo](https://codeberg.org/liamthexpl0rer/elecbot)
 
 <!---
 liamthexpl0rer/l14mthexpl0rer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
